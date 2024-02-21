@@ -1,6 +1,6 @@
 /* 
  * File:   hal_spi.h
- * Author: Ahmed Abd El-Ghafar
+ * Author: Ahmed Mohamed
  */
 
 #ifndef HAL_SPI_H
