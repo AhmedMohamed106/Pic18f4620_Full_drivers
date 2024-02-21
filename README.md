@@ -12,10 +12,14 @@ Discover the heart of this repository – the Microcontroller Abstraction Layer 
 - **🌐 [INTERRUPT](https://github.com/AhmedMohamed106/Pic18f4620_Full_drivers/tree/master/MCAL_Layer/Interrupt):** Handle external and internal interrupts.
 - **⚡ [ADC](https://github.com/AhmedMohamed106/Pic18f4620_Full_drivers/tree/master/MCAL_Layer/ADC):** Convert analog signals to digital with precision.
 - **⏰ [TIMER](https://github.com/AhmedMohamed106/Pic18f4620_Full_drivers/tree/master/MCAL_Layer/Timer0):** Manage time-sensitive tasks.
+- **⏰ [TIMER](https://github.com/AhmedMohamed106/Pic18f4620_Full_drivers/tree/master/MCAL_Layer/Timer1):** Manage time-sensitive tasks.
+- **⏰ [TIMER](https://github.com/AhmedMohamed106/Pic18f4620_Full_drivers/tree/master/MCAL_Layer/Timer2):** Manage time-sensitive tasks.
+- **⏰ [TIMER](https://github.com/AhmedMohamed106/Pic18f4620_Full_drivers/tree/master/MCAL_Layer/Timer3):** Manage time-sensitive tasks.
 - **🔌 [SPI](https://github.com/AhmedMohamed106/Pic18f4620_Full_drivers/tree/master/MCAL_Layer/SPI):** Communicate seamlessly with peripheral devices.
 - **📡 [USART](https://github.com/AhmedMohamed106/Pic18f4620_Full_drivers/tree/master/MCAL_Layer/usart):** Establish reliable synchronous/asynchronous communication.
 - **🔳 [GPIO](https://github.com/AhmedMohamed106/Pic18f4620_Full_drivers/tree/master/MCAL_Layer/GPIO):** Take full control of input/output pins.
 - **📈 [CCP](https://github.com/AhmedMohamed106/Pic18f4620_Full_drivers/tree/master/MCAL_Layer/CCP1):** Execute capture, comparison, and PWM operations smoothly.
+- **📈 [CCP](https://github.com/AhmedMohamed106/Pic18f4620_Full_drivers/tree/master/MCAL_Layer/CCP2):** Execute capture, comparison, and PWM operations smoothly.
 - **🔗 [I2C](https://github.com/AhmedMohamed106/Pic18f4620_Full_drivers/tree/master/MCAL_Layer/I2C):** Communicate efficiently using the I2C protocol.
 - **💾 [EEPROM](https://github.com/AhmedMohamed106/Pic18f4620_Full_drivers/tree/master/MCAL_Layer/EEPROM):** Read and write operations for non-volatile data storage.
 - **🧩 [Compiler Header File](https://github.com/AhmedMohamed106/Pic18f4620_Full_drivers/tree/master/MCAL_Layer/compiler.h):** Standardized macros, types, and libraries.
